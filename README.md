@@ -57,7 +57,7 @@ Follow these steps to set up the project locally:
 
 ## Demo
 
-Explore the live demo: [https://it-help-desk-sigma.vercel.app/](#)
+Explore the live demo: [https://it-help-desk-sigma.vercel.app/](#https://it-help-desk-sigma.vercel.app/)
 
 ## Contributing
 
