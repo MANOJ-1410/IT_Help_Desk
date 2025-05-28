@@ -74,4 +74,3 @@ For major changes, please open an issue first to discuss your ideas.
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE.md` file for details.
-```
